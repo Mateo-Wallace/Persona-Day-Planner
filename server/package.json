@@ -5,12 +5,13 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seeds/seed.js",
     "start": "node server.js",
     "watch": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mateo-Wallace",
+  "license": "MIT",
   "dependencies": {
     "apollo-server-express": "^3.10.1",
     "bcrypt": "^5.0.1",
