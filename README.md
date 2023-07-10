@@ -7,4 +7,4 @@ Full Stack MERN application. Allows user to plan their day based on improving th
 ## TODO
 
 - Change `favicon.ico` to logo
-- change the title in the `client/public/index.html`
+- Double check the query user on client side
