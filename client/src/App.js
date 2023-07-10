@@ -18,7 +18,7 @@ import Dashboard from "./pages/Dashboard";
 import ProtectRoute from "./pages/ProtectRoute";
 
 // Import Components
-import Navbar from "./components/Navbar";
+
 
 // Construct our main GraphQL API endpoint
 const httpLink = createHttpLink({
